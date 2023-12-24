@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+div {
+    width: 800px;
+    height: 500px;
+    background: url(./pic.jpg) center center no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+.image {
+    border-image: fill 0 linear-gradient(rgba(0, 0, 0, 0.089),#0003, #000);
+}
